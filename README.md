@@ -1,6 +1,6 @@
 # m508
-Final project for M508 at Montana State
-Michelle Vered & Jack Lawniczak
+Final project for M508 at Montana State <br>
+Michelle Vered & Jack Lawniczak <br>
 April 2020
 
 Code is in a jupyter notebook, training, test, and validation data saved under data folder
